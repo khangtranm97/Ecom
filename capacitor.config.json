@@ -1,0 +1,6 @@
+{
+    "appID": "com.Ecom",
+    "appName": "Ecom",
+    "webDir": "www",
+    "bundleWebRuntime": false
+}

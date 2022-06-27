@@ -1,0 +1,6 @@
+module Pods_Ecom_EcomTests {
+  umbrella header "Pods-Ecom-EcomTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
